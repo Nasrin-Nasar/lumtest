@@ -1,0 +1,121 @@
+.top{
+    background-color: rgb(96, 6, 132);
+    height: 30px;
+    padding: 10px;
+}
+#topp{
+    font-size: 13px;
+    color: white;
+}
+
+#pre{
+    top: 423px;
+}
+h5{
+    font-size: 60px;
+text-align: left;
+background-color: rgba(10, 10, 10, 0.459);
+/* padding: 200px; */
+}
+#imgp{
+    text-align: left;
+    margin-bottom: 150px;
+    background-color: rgba(10, 10, 10, 0.459);
+}
+#imgb{
+    background-color: rgb(96, 6, 132);
+color: white;
+border-radius: 40px;
+margin-left: -972px;
+margin-top: 16px;
+/* margin-bottom: 20px; */
+}
+#bt1{
+    margin-bottom: 20px;
+}
+
+#para{
+margin-top: 100px;
+}
+#imgs{
+    height: 600px;
+}
+#girl{
+    margin-top: 80px;
+}
+p{
+    font-size: 18px;
+}
+h3{
+    font-size: 34px;
+    color: rgb(96, 6, 132);
+}
+#cin{
+font-size: 20px;
+color: rgb(96, 6, 132);
+}
+button{
+    height: 58px;
+    width: 180px;
+    border-radius: 30px;
+    background-color: rgb(96, 6, 132);;
+    border-radius: 35px;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: rgb(96, 6, 132);
+}
+#row1{
+    margin-left: 50px;
+}
+#bo{
+    background-color: rgb(246, 245, 245);
+    width: 100%;
+}
+#hbo{
+    text-align: center;
+    color: rgb(96, 6, 132);
+    padding: 3px;
+
+}
+#gr1{
+    justify-content: space-around;
+}
+#grh{
+    color: rgb(96, 6, 132);
+}
+#imgg{
+    width: 100%;
+    height: 300px;
+}
+#row2{
+    display: flex;
+    justify-content: space-around;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+#row2:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-img-top{
+    width: 100%;
+}
+/* .card{
+    width: 500px;
+} */
+#grid2{
+    margin-top: 35px;
+}
+#btn2{
+    background-color: rgb(96, 6, 132);
+    color: white;
+}
+.card-title{
+    color: rgb(96, 6, 132);
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#ca{
+    height: 400px;
+}
